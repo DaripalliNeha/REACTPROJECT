@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>this is page</h1>
+      <p>my project</p>
     </>
   )
 }
